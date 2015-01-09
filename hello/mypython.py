@@ -6,3 +6,8 @@ def huy():
 huy()
 a=12
 hash(a)
+
+def ratata():
+    print "ok"
+
+ratata()
