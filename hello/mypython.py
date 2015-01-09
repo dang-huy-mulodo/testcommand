@@ -13,3 +13,5 @@ def ratata():
 ratata()
 print "end"
 
+print "i'm anonymous"
+
