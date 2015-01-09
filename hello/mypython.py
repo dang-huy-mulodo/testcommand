@@ -11,3 +11,5 @@ def ratata():
     print "ok"
 
 ratata()
+print "end"
+
