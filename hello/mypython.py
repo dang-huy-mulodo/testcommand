@@ -6,3 +6,5 @@ def huy():
 huy()
 a=12
 hash(a)
+
+print "end"
