@@ -12,6 +12,7 @@ def ratata():
 
 ratata()
 print "end"
+<<<<<<< HEAD
 
+print "who are you?"
 print "i'm anonymous"
-
